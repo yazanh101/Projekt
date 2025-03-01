@@ -1,0 +1,48 @@
+/* تحديد ألوان الخلفية */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.5s; /* تحويل اللون بشكل سلس */
+}
+
+/* تحديد الأشكال أو الخلفيات بناءً على نطاق BMI */
+/* تغيير الخلفية إلى اللون الأخضر للنطاق الصحيح */
+.body-healthy {
+    background-color: #00cc00; /* اللون الأخضر */
+}
+
+/* تغيير الخلفية إلى اللون الأصفر للنطاق الزائد قليلاً */
+.body-overweight {
+    background-color: #ffd700; /* اللون الأصفر */
+}
+
+/* تغيير الخلفية إلى اللون الأحمر للنطاق الزائد كثيرًا */
+.body-obese {
+    background-color: #ff0000; /* اللون الأحمر */
+}
+
+/* تنسيقات أخرى لواجهة المستخدم */
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 10px;
+}
