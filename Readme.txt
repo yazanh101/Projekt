@@ -1,6 +1,6 @@
 BMI-Rechner Projekt
 
-Teilnehmer: Eiad Abdulmomenaljazailri
+Teilnehmer: Mhd Yazan Hammoud
 
 Projektbeschreibung:
 
@@ -10,11 +10,10 @@ Berechnung Ihres Body-Mass-Index (BMI) zu helfen und zu verstehen, ob Ihr Gewich
 Um das Projekt auszuführen, können Sie die folgenden Schritte befolgen:
 
 Extrahieren Sie die Dateien in einen Ordner auf Ihrem Computer.
-Suchen Sie nach der Datei "index.html" und 
-öffnen Sie sie in Ihrem Webbrowser.
+Suchen Sie nach der Datei index.html und öffnen Sie sie in Ihrem Webbrowser.
 Geben Sie Ihr Gewicht (in Kilogramm) und Ihre 
 Größe (in Zentimetern) in die entsprechenden Felder ein.
-Klicken Sie auf die Schaltfläche "BMI berechnen", um das Ergebnis des Body-Mass-Index und des 
+Klicken Sie auf die Schaltfläche BMI berechnen, um das Ergebnis des Body-Mass-Index und des 
 idealen Gewichts anzuzeigen.
 
 Projektmerkmale
